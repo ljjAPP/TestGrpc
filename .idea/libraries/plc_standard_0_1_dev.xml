@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plc-standard-0.1-dev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/plc-standard-0.1-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
